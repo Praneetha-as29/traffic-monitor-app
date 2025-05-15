@@ -1,30 +1,35 @@
 # 🚦 Traffic Monitor App
 
-A basic traffic monitoring app built using **React Native and Expo**. It shows fake traffic data for 3 locations and has a dashboard screen.
+A simple cross-platform Traffic Monitor app built with **React Native** and **Expo**.  
+It shows simulated traffic congestion levels for three mock locations, along with a basic dashboard.
 
 ---
 
 ## 🔗 Live Demo
 
-Try it online:  
-👉 https://snack.expo.dev
+Try it online on Expo Snack:  
+[https://snack.expo.dev/@git/github.com/Praneetha-as29/traffic-monitor-app?platform=web](https://snack.expo.dev/@git/github.com/Praneetha-as29/traffic-monitor-app?platform=web)
 
 ---
 
-## 📁 GitHub Repo
+## 📁 Source Code
 
-View the code here:  
-👉 https://github.com/Praneetha-as29/traffic-monitor-app
+View the full source code on GitHub:  
+[https://github.com/Praneetha-as29/traffic-monitor-app](https://github.com/Praneetha-as29/traffic-monitor-app)
 
 ---
 
-## 📦 How to Run
+## 🚀 Features
 
-1. Install Node.js and Expo CLI
-2. Open terminal and run:
+- Home screen with navigation buttons
+- Traffic Status screen simulates congestion data
+- Dashboard placeholder screen
+- Works on Android, iOS, and Web via Expo
 
-```bash
-git clone https://github.com/Praneetha-as29/traffic-monitor-app.git
-cd traffic-monitor-app
-npm install
-npx expo start
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Praneetha-as29/traffic-monitor-app.git
